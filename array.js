@@ -29,4 +29,5 @@ friendsAge.shift();
 console.log(friendsAge); //Output = [ 90, 24, 21, 26, 30, 27, 36 ]
 
 console.log(friendsAge.length);
+console.log("It's my array");
 
