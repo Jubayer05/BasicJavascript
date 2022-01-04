@@ -1,5 +1,5 @@
 //Number Type variable
-var mangoPrize = 342;
+var mangoPrize = 345642;
 console.log(mangoPrize);
 console.log(typeof mangoPrize);
  
