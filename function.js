@@ -6,7 +6,7 @@ function doubleIt(num) {
 doubleIt(500)
 
 //Add Two Number
-var firstNum = doubleIt(243);
+var firstNum = doubleIt(24783);
 var secondNum = doubleIt(275);
 
 console.log(firstNum + secondNum);
