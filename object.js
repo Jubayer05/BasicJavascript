@@ -1,5 +1,5 @@
 var student1 = {name:"Jack Smith", id:719245, phone: 5553012};
-var student2 = {name:"Marry Smith", id:619543, phone: 5556872};
+var student2 = {name:"Marry Smith & her husband", id:619543, phone: 5556872};
 
 // console.log(student1, student2);
 
