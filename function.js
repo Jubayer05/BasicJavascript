@@ -19,6 +19,6 @@ function addNum (num1, num2) {
     return add;
 }
 
-var sum = addNum(200 , 300);
+var sum = addNum(200 , 800);
 
 console.log(sum);
