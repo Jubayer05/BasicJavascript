@@ -1,4 +1,4 @@
-var friendsAge = [24,21,26,55,22,,69,44,27];
+var friendsAge = [24,21,26,69,44,27];
 
 var jonasAge = friendsAge[2];
 
@@ -29,5 +29,5 @@ friendsAge.shift();
 console.log(friendsAge); //Output = [ 90, 24, 21, 26, 30, 27, 36 ]
 
 console.log(friendsAge.length);
-console.log("It's my array");
+console.log("It's an array");
 
