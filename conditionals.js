@@ -2,7 +2,7 @@ var itIsRaining = false;
 var haveUmbralla = true;
 
 if (itIsRaining == true && haveUmbralla == false) {
-    console.log("I don't go out, I will stay home and stay codding untill the rain stop");
+    console.log("I will not go out, I will stay home and stay codding untill the rain stop");
 }
 
 else if (itIsRaining == false && haveUmbralla !== true) {
@@ -10,5 +10,5 @@ else if (itIsRaining == false && haveUmbralla !== true) {
 }
 
 else {
-    console.log("I will go to market");
+    console.log("I will go to marketdhdh");
 }
