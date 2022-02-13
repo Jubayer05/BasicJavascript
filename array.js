@@ -16,7 +16,7 @@ var position2 = friendsAge.indexOf(54);
 friendsAge.push(36);
 console.log(friendsAge); //Output = [ 24, 21, 26, 30, 27, 36 ]
 
-friendsAge.push(40);
+friendsAge.push(4000);
 console.log(friendsAge); //Output = [ 24, 21, 26, 30, 27, 36, 40]
 
 friendsAge.pop();
