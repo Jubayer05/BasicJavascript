@@ -23,7 +23,7 @@ friendsAge.pop();
 console.log(friendsAge); //Output = [ 24, 21, 26, 30, 27, 36 ]
 
 friendsAge.unshift(100, 90);
-console.log(friendsAge); //Output = [ 100, 90, 24, 21, 26, 30, 27, 36 ]
+console.log(friendsAge); //Output = [ 100, 90, 24, 366, 21, 26, 30, 27, 36 ]
 
 friendsAge.shift();
 console.log(friendsAge); //Output = [ 90, 24, 21, 26, 30, 27, 36 ]
