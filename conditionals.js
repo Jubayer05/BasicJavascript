@@ -10,5 +10,5 @@ else if (itIsRaining == false && haveUmbralla !== true) {
 }
 
 else {
-    console.log("I will go to marketdhdh");
+    console.log("I will go to market");
 }
