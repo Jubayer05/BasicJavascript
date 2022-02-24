@@ -2,7 +2,7 @@ var friendsAge = [24,21,26,69,28,67,97];
 
 var jonasAge = friendsAge[2];
 
-friendsAge[3] = 30;
+friendsAge[3] = 560;
 
 var position = friendsAge.indexOf(30);
 
