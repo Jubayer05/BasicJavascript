@@ -1,4 +1,4 @@
-var num = 20;
+var num = 200;
 
 while ( num < 366) {
     console.log(num);
