@@ -1,5 +1,5 @@
 //Number Type variable
-var mangoPrize = 340877742;
+var mangoPrize = 340742;
 console.log(mangoPrize);
 console.log(typeof mangoPrize);
  
@@ -9,6 +9,6 @@ console.log(name);
 console.log(typeof name);
 
 //Boolean Type variable
-var codeToday = true;
+var codeToday = false;
 console.log(codeToday);
 console.log(typeof codeToday);
