@@ -6,7 +6,7 @@ if (itIsRaining == true && haveUmbralla == false) {
 }
 
 else if (itIsRaining == false && haveUmbralla !== true) {
-    console.log ("I will not go away from my house");
+    console.log ("I will go away from my house");
 }
 
 else {
