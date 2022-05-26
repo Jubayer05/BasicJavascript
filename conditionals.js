@@ -2,7 +2,7 @@ var itIsRaining = false;
 var haveUmbralla = true;
 
 if (itIsRaining == true && haveUmbralla == false) {
-    console.log("I not go out and keep ut, I will stay home and stay codding untill the rain stop");
+    console.log("I'll not go out and keep ut, I will stay home and stay codding untill the rain stop");
 }
 
 else if (itIsRaining == false && haveUmbralla !== true) {
