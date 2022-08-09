@@ -1,4 +1,4 @@
-var friendsAge = [24,21,26,546,59, 556,67,124,105,97];
+var friendsAge = [24,21,26,546,59,56,90,56,67,124,105,97];
 
 var jonasAge = friendsAge[2];
 
